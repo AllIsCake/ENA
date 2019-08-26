@@ -721,6 +721,7 @@ header {
 }
 
 .spam-form-text {
+  padding: 0 0 0 20px;
   float: left;
   width: 600px;
   height: 60px;
